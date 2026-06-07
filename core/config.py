@@ -57,8 +57,6 @@ def load_config(env_path: str = ".env") -> AppConfig:
     env_file = Path(env_path)
     if env_file.exists():
         load_dotenv(env_file, override=False)
-    else:
-        raise ConfigError(f"{env_path} not found. Please copy .env.example to .env and configure it.")
 
     # ── Read and strip all values ──
     smtp_host = os.getenv("SMTP_HOST", "smtp.gmail.com").strip()
