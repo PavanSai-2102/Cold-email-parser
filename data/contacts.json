@@ -1,0 +1,48 @@
+[
+  {
+    "recipient_name": "Priya Sharma",
+    "recipient_email": "priya@example.com",
+    "company": "Acme AI",
+    "role": "Backend Engineering Intern",
+    "job_url": "https://example.com/job/acme-ai",
+    "personalization_note": "Company recently launched an AI workflow automation product",
+    "candidate_name": "Alex Chen",
+    "candidate_background": "Python developer interested in automation and AI agents",
+    "portfolio_url": "https://github.com/alexchen",
+    "linkedin_url": "https://linkedin.com/in/alexchen"
+  },
+  {
+    "recipient_name": "David Kim",
+    "recipient_email": "david.kim@techcorp.example.org",
+    "company": "TechCorp",
+    "role": "Junior Data Scientist",
+    "personalization_note": "I loved your recent blog post on scaling data pipelines.",
+    "candidate_name": "Alex Chen",
+    "candidate_background": "data enthusiast with experience in pandas and scikit-learn",
+    "portfolio_url": "https://alexchen.dev"
+  },
+  {
+    "recipient_email": "careers@innovatesoftware.example.net",
+    "company": "Innovate Software",
+    "role": "Software Developer",
+    "candidate_name": "Alex Chen",
+    "candidate_background": "recent CS grad who enjoys building backend APIs"
+  },
+  {
+    "recipient_name": "Sarah Jenkins",
+    "recipient_email": "sarah.jenkins@startupinc.example.com",
+    "company": "StartupInc",
+    "role": "Full Stack Engineer",
+    "job_url": "https://startupinc.example.com/careers/fs-eng",
+    "candidate_name": "Alex Chen",
+    "candidate_background": "React and Node.js developer looking for fast-paced environments",
+    "resume_link": "https://alexchen.dev/resume.pdf"
+  },
+  {
+    "recipient_email": "do-not-contact@example.com",
+    "company": "OptOut Enterprises",
+    "role": "Software Engineer",
+    "candidate_name": "Alex Chen",
+    "candidate_background": "developer"
+  }
+]

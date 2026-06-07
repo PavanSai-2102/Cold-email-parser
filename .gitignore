@@ -1,0 +1,41 @@
+# ── Secrets ──
+.env
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ── Virtual environments ──
+venv/
+.venv/
+env/
+ENV/
+
+# ── Runtime output ──
+outreach_log.csv
+opt_out.txt
+
+# ── IDE / Editor ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ── Testing / Coverage ──
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ── Distribution ──
+dist/
+build/
+*.egg-info/
+
+# ── Gmail API tokens (stretch goal) ──
+token.json
+credentials.json
